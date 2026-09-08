@@ -1,7 +1,6 @@
 Apk dose side 👇 image de down side
-<img width="1080" height="2400" alt="Screenshot_2026-09-08-15-00-56-506_com android chrome" src="https://github.com/user-attachments/assets/489a8e34-4e82-46bd-880e-aebe74e22161" />
+<img width="1080" height="1535" alt="IMG_20260908_153052" src="https://github.com/user-attachments/assets/1e6e6ab5-3ca8-4f36-b192-e2b048abd113" />
 
-<img width="1080" height="1920" alt="Screenshot_2026-08-21-14-39-43-619_com miui gallery-1080x1920" src="https://github.com/user-attachments/assets/c5eb51a6-d7c2-4620-8344-99d7ed952828" />
 # Punjab De Patwari App
 
 
